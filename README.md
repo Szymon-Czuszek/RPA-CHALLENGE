@@ -8,7 +8,9 @@ Ensure you have Python installed on your system.
 
 Install the required Python packages using pip:
 
+```python
 pip install selenium pandas requests
+```
 
 Make sure you have the appropriate WebDriver installed for your browser. This script is configured for Chrome; you may need to download the corresponding WebDriver for other browsers.
 
