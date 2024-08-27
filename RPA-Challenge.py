@@ -46,6 +46,8 @@ data = pd.read_excel("challenge.xlsx", header = 0)
 
 driver.find_element(By.XPATH, "//button[contains(text(),'Start')]").click()
 
+# for each record in the excel file, send keys to the website
+
 for index, record in data.iterrows():
     driver.find_element(By.XPATH, "//input[@ng-reflect-name='labelFirstName']").send_keys(record[0])
     driver.find_element(By.XPATH, "//input[@ng-reflect-name='labelLastName']").send_keys(record[1])
