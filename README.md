@@ -16,8 +16,8 @@ Make sure you have the appropriate WebDriver installed for your browser. This sc
 
 ## Usage
 Run the script.
-```shell
-RPA-CHALLENGE % python RPA-Challenge.py
+```terminal
+python RPA-Challenge.py
 ```
 The script will open the specified webpage (https://rpachallenge.com), maximize the window, and locate the download link for an Excel file.
 It will download the file and save it as challenge.xlsx.
