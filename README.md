@@ -1,6 +1,6 @@
 # 🤖 Web Automation Script with Selenium
 
-## Introduction
+## 🌟 Introduction
 This script automates the process of downloading a file from a website, filling a form with data from an Excel file, submitting the form, and extracting messages from the webpage. It utilizes Selenium for web automation, pandas for data handling, and requests for HTTP requests.
 
 ## Setup and Requirements
