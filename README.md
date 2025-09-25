@@ -3,6 +3,8 @@
 ## 🌟 Introduction
 This script automates the process of downloading a file from a website, filling a form with data from an Excel file, submitting the form, and extracting messages from the webpage. It utilizes Selenium for web automation, pandas for data handling, and requests for HTTP requests.
 
+This project automates repetitive web interactions using Selenium.
+
 ## Setup and Requirements
 Ensure you have Python installed on your system.
 
