@@ -6,6 +6,8 @@ This script automates the process of downloading a file from a website, filling 
 This project automates repetitive web interactions using Selenium.
 The script:
 - 📥 Downloads an Excel file from a website
+- 📊 Reads and processes the file with pandas
+- 
 
 ## Setup and Requirements
 Ensure you have Python installed on your system.
