@@ -7,7 +7,7 @@ This project automates repetitive web interactions using Selenium.
 The script:
 - 📥 Downloads an Excel file from a website
 - 📊 Reads and processes the file with pandas
-- 
+- 📝 Fills and submits a form automatically
 
 ## Setup and Requirements
 Ensure you have Python installed on your system.
