@@ -8,6 +8,7 @@ The script:
 - 📥 Downloads an Excel file from a website
 - 📊 Reads and processes the file with pandas
 - 📝 Fills and submits a form automatically
+- 📤 Extracts confirmation messages from the webpage
 
 ## Setup and Requirements
 Ensure you have Python installed on your system.
