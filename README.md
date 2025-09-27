@@ -14,7 +14,8 @@ The script:
 It’s a simple yet powerful RPA-style automation example built in Python
 
 ## ⚙️ Setup and Requirements
-Ensure you have Python installed on your system.
+
+Make sure you have Python 3.x installed.
 
 Install the required Python packages using pip:
 
