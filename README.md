@@ -9,6 +9,7 @@ The script:
 - 📊 Reads and processes the file with pandas
 - 📝 Fills and submits a form automatically
 - 📤 Extracts confirmation messages from the webpage
+- 💾 Saves the results into a text file
 
 ## Setup and Requirements
 Ensure you have Python installed on your system.
