@@ -11,6 +11,8 @@ The script:
 - 📤 Extracts confirmation messages from the webpage
 - 💾 Saves the results into a text file
 
+It’s a simple yet powerful RPA-style automation example built in Python
+
 ## Setup and Requirements
 Ensure you have Python installed on your system.
 
