@@ -19,6 +19,8 @@ Make sure you have Python 3.x installed.
 
 Install the required Python packages using pip:
 
+📦 Install dependencies:
+
 ```python
 pip install selenium pandas requests
 ```
