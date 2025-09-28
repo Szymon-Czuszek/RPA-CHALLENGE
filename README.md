@@ -25,6 +25,8 @@ Install the required Python packages using pip:
 pip install selenium pandas requests
 ```
 
+🌐 Install the WebDriver for your browser (this script is configured for Chrome).
+
 Make sure you have the appropriate WebDriver installed for your browser. This script is configured for Chrome; you may need to download the corresponding WebDriver for other browsers.
 
 ## Usage
