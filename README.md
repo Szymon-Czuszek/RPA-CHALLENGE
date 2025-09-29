@@ -37,7 +37,7 @@ python RPA-Challenge.py
 
 ✅ The script will:
 1. 🌍 The script will open the specified webpage (https://rpachallenge.com), maximize the window, and locate the download link for an Excel file.
-It will download the file and save it as challenge.xlsx.
+2. ⬇️ It will download the file and save it as challenge.xlsx.
 The script will read the Excel file into a pandas DataFrame.
 It will then fill out a form on the webpage with data from the Excel file and submit it.
 The messages displayed on the webpage after form submission will be extracted.
