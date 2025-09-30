@@ -10,8 +10,6 @@ The script:
 - 📝 Fills and submits a form automatically
 - 📤 Extracts confirmation messages from the webpage
 - 💾 Saves the results into a text file
-- 🗑️ Delete the downloaded Excel file
-- ❌ Close the browser session
 
 It’s a simple yet powerful RPA-style automation example built in Python
 
@@ -42,7 +40,7 @@ python RPA-Challenge.py
 2. ⬇️ It will download the file and save it as challenge.xlsx.
 3. 📖 The script will read the Excel file into a pandas DataFrame.
 4. 📝 It will then fill out a form on the webpage with data from the Excel file and submit it.
-The messages displayed on the webpage after form submission will be extracted.
+5. 📋 The messages displayed on the webpage after form submission will be extracted.
 <br><br> ![Pictures/rpachallenge-complete.png](Pictures/rpachallenge-complete.png)
 The messages will be saved to a text file named output.txt.
 The Excel file (challenge.xlsx) will be deleted.
