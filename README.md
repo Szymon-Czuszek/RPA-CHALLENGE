@@ -11,6 +11,7 @@ The script:
 - 📤 Extracts confirmation messages from the webpage
 - 💾 Saves the results into a text file
 - 🗑️ Delete the downloaded Excel file
+- ❌ Close the browser session
 
 It’s a simple yet powerful RPA-style automation example built in Python
 
