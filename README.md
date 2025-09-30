@@ -10,6 +10,7 @@ The script:
 - 📝 Fills and submits a form automatically
 - 📤 Extracts confirmation messages from the webpage
 - 💾 Saves the results into a text file
+- 🗑️ Delete the downloaded Excel file
 
 It’s a simple yet powerful RPA-style automation example built in Python
 
