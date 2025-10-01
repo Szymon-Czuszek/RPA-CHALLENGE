@@ -43,7 +43,7 @@ python RPA-Challenge.py
 5. 📋 The messages displayed on the webpage after form submission will be extracted.
 <br><br> ![Pictures/rpachallenge-complete.png](Pictures/rpachallenge-complete.png)
 6. 💾 The messages will be saved to a text file named output.txt.
-The Excel file (challenge.xlsx) will be deleted.
+7. 🗑️ The Excel file (challenge.xlsx) will be deleted.
 The WebDriver instance will be closed.
 
 ## Files
