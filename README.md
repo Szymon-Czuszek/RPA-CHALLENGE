@@ -44,7 +44,7 @@ python RPA-Challenge.py
 <br><br> ![Pictures/rpachallenge-complete.png](Pictures/rpachallenge-complete.png)
 6. 💾 The messages will be saved to a text file named output.txt.
 7. 🗑️ The Excel file (challenge.xlsx) will be deleted.
-The WebDriver instance will be closed.
+8. ❌ The WebDriver instance will be closed.
 
 ## Files
 RPA-Challenge.py: The Python script containing the automation code.
