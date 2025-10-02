@@ -56,3 +56,5 @@ output.txt: The text file where messages from the webpage are saved.
 
 ## 📜 License
 This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+
+✨ With this script, you can practice RPA concepts while learning Selenium, pandas, and automation in Python.
