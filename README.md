@@ -51,7 +51,7 @@ RPA-Challenge.py: The Python script containing the automation code.
 output.txt: The text file where messages from the webpage are saved.
 
 ## ⚠️ Note
-Ensure that the WebDriver path is correctly set up in the script (webdriver.Chrome()). Adjust it according to your WebDriver's location if necessary.
+🔧 Ensure that the WebDriver path is correctly set up in the script (webdriver.Chrome()). Adjust it according to your WebDriver's location if necessary.
 The script assumes the presence of specific elements on the webpage (//input[@ng-reflect-name='labelFirstName'], etc.). Make sure these elements exist and their attributes match the script's expectations.
 
 ## License
