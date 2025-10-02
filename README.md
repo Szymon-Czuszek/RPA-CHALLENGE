@@ -54,5 +54,5 @@ output.txt: The text file where messages from the webpage are saved.
 🔧 Ensure that the WebDriver path is correctly set up in the script (webdriver.Chrome()). Adjust it according to your WebDriver's location if necessary.
 🕵️ The script assumes the presence of specific elements on the webpage (//input[@ng-reflect-name='labelFirstName'], etc.). Make sure these elements exist and their attributes match the script's expectations.
 
-## License
+## 📜 License
 This project is licensed under the [License Name] License - see the LICENSE.md file for details.
