@@ -47,7 +47,7 @@ python RPA-Challenge.py
 8. ❌ The WebDriver instance will be closed.
 
 ## 📂 Files
-RPA-Challenge.py: The Python script containing the automation code.
+- 🧩 RPA-Challenge.py: The Python script containing the automation code.
 output.txt: The text file where messages from the webpage are saved.
 
 ## ⚠️ Note
